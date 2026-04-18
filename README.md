@@ -9,8 +9,6 @@ It helps users track income/expenses, split bills, and manage finances efficient
 -Live App: https://hmm-cashly.vercel.app  
 -Backend API: https://hmm-cashly-1.onrender.com/api  
 
-:contentReference[oaicite:0]{index=0}  
-:contentReference[oaicite:1]{index=1}  
 
 
 # Tech Stack
