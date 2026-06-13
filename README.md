@@ -20,7 +20,7 @@ It helps users track income/expenses, split bills, and manage finances efficient
 - API Handling: Axios
 - Data Visualization: Recharts
 - State Management: React Context API
-- 
+  
 
 # Features
 
